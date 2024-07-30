@@ -44,6 +44,13 @@ Each new sentence needs to be supported by the previous ones and lead to the nex
 
 It's much easier to catch errors or sentences that don't quite flow when you read it outloud. This keeps our brains from skipping over errors because we know what we meant to say.
 
+## For next week (8/6)
+
+- Create your slide deck (ideally, no more than 5 slides). 
+- Focus on diagrams, pictures, figures rather than words
+- Consider how you can use your "And, But, Therefore" pitch to introduce and preview the talk for your audience. 
+
+
 ## Examples
 
 ### Example 1:
