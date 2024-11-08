@@ -2,7 +2,7 @@
 title: "Science Communication Crash Course"
 ---
 
-# Session 1 - 7/30/2024
+# Session 1
 
 ## The "And, But, Therefore" Method
 
@@ -15,6 +15,12 @@ title: "Science Communication Crash Course"
 - Introducing the word **BUT** indicates that this is the start of the real story. 
 
 - This then leads to the action of the story, **THEREFORE**, where you set out the consequences of this problem and what you are going to do about it.
+
+## Exercise
+
+- Write a bullets about your research using the "And, But, Therefore" method. Practice giving the pitch to yourself
+- Pair up with someone else and give your pitch to them. Give each other at least 1 positive feedback and 1 thing to improve
+- We'll come back as a group and everyone will share their pitch with the group.
 
 ## Tips
 
@@ -48,7 +54,7 @@ It's much easier to catch errors or sentences that don't quite flow when you rea
 
 - Create your slide deck (ideally, no more than 5 slides). 
 - Focus on diagrams, pictures, figures rather than words
-- Consider how you can use your "And, But, Therefore" pitch to introduce and preview the talk for your audience. 
+- Consider how you can use your "And, But, Therefore" pitch to introduce and previewq the talk for your audience. 
 
 
 ## Examples
